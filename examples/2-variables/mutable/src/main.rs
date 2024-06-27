@@ -4,5 +4,6 @@ fn main() {
     message.clear();
     let mut height = 190;
     height = 189;
-    println!("{}{}",message, height);
+    println!("{}{}", message, height);
+
 }
