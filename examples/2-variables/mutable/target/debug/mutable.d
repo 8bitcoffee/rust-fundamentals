@@ -1,0 +1,1 @@
+/Users/j/projects/rust_programming_specialization/01_Rust_Fundamentals/week2/rust-fundamentals/examples/2-variables/mutable/target/debug/mutable: /Users/j/projects/rust_programming_specialization/01_Rust_Fundamentals/week2/rust-fundamentals/examples/2-variables/mutable/src/main.rs

@@ -1,0 +1,1 @@
+/Users/j/projects/rust_programming_specialization/01_Rust_Fundamentals/week2/rust-fundamentals/examples/1-components/project/target/debug/project: /Users/j/projects/rust_programming_specialization/01_Rust_Fundamentals/week2/rust-fundamentals/examples/1-components/project/src/main.rs
