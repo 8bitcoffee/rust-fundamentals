@@ -1,3 +1,4 @@
+
 fn main() {
     let proceed = false;
     if proceed {
