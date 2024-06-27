@@ -1,1 +1,0 @@
-/Users/j/projects/rust_programming_specialization/01_Rust_Fundamentals/week2/rust-fundamentals/examples/week2_lab1/target/debug/week2_lab1: /Users/j/projects/rust_programming_specialization/01_Rust_Fundamentals/week2/rust-fundamentals/examples/week2_lab1/src/main.rs
