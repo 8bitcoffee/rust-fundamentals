@@ -1,0 +1,1 @@
+/Users/j/projects/rust_programming_specialization/01_Rust_Fundamentals/week2/rust-fundamentals/examples/14-borrowing/borrowing/target/debug/borrowing: /Users/j/projects/rust_programming_specialization/01_Rust_Fundamentals/week2/rust-fundamentals/examples/14-borrowing/borrowing/src/main.rs

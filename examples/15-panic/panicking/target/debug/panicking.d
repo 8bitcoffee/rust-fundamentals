@@ -1,0 +1,1 @@
+/Users/j/projects/rust_programming_specialization/01_Rust_Fundamentals/week2/rust-fundamentals/examples/15-panic/panicking/target/debug/panicking: /Users/j/projects/rust_programming_specialization/01_Rust_Fundamentals/week2/rust-fundamentals/examples/15-panic/panicking/src/main.rs
