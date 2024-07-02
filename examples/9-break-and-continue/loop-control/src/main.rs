@@ -5,7 +5,7 @@ fn main() {
             continue;
         }
         println!("i = {}", i);
-        if i == 7 {
+        if i == 70 {
             // Exit loop when i is 7
             break;
         }
