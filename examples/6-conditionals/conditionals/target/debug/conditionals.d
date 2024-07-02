@@ -1,0 +1,1 @@
+/Users/j/projects/rust_programming_specialization/01_Rust_Fundamentals/week2/rust-fundamentals/examples/6-conditionals/conditionals/target/debug/conditionals: /Users/j/projects/rust_programming_specialization/01_Rust_Fundamentals/week2/rust-fundamentals/examples/6-conditionals/conditionals/src/main.rs
