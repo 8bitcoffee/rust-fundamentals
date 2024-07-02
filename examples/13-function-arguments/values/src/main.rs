@@ -1,6 +1,6 @@
 
 fn sum(numbers: &[i32]) -> i32 {
-    let mut result = 0;
+    let mut result: i32 = 0;
     for number in numbers {
         result += number;
     }
